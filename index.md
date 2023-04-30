@@ -2,7 +2,7 @@
 
 ## 6th Grade
 
-[![Mechanical Engineering](https://github.com/Angelo-Morris/angelomorris.github.io/blob/master/images/mechanical-engineering.jpg)](pages/6th-grade)
+[![Mechanical Engineering](https://raw.githubusercontent.com/Angelo-Morris/angelomorris.github.io/blob/master/images/mechanical-engineering.jpg)](pages/6th-grade)
 
 <!---
 start comment
