@@ -5,6 +5,7 @@
 <a href="pages/6th-grade"><img src="https://github.com/Angelo-Morris/angelomorris.github.io/blob/master/images/mechanical-engineering.jpg" align="left" height="400" width="600" ></a>
 
 <!---
+start comment
 
 ## Cloud Engineering
 [![Cloud Engineering Guy](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/data-engineering-guy.jpg)](pages/7th-grade)
@@ -18,6 +19,8 @@
 ---
 <br/>
 
+End comment
+---->
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
