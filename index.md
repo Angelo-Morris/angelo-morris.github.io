@@ -15,7 +15,6 @@ start comment
 ## Product Management
 [![Product Management People](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/product-management-people.jpg)](pages/8th-grade)
 
-
 ---
 <br/>
 
