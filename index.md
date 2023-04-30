@@ -3,11 +3,13 @@
 ---
 
 
-## Analytics
-[![Guy Making a Dashboard](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/guy-making-dashboard.jpg)](pages/6th-grade)
+## 6Th grade
+[![Guy Making a Dashboard](https://github.com/Angelo-Morris/angelomorris.github.io/blob/master/images/mechanical-engineering.jpg)](pages/6th-grade)
 
 
 ---
+<!---
+
 ## Cloud Engineering
 [![Cloud Engineering Guy](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/data-engineering-guy.jpg)](pages/7th-grade)
 
