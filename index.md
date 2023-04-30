@@ -3,10 +3,9 @@
 ---
 
 
-## 6Th grade
-[![Guy Making a Dashboard](https://github.com/Angelo-Morris/angelomorris.github.io/blob/master/images/mechanical-engineering.jpg)](pages/6th-grade)
+## 6th Grade
 
-
+<a href="pages/6th-grade"><img src="https://github.com/Angelo-Morris/angelomorris.github.io/blob/master/images/mechanical-engineering.jpg" align="left" height="400" width="600" ></a>
 ---
 <!---
 
