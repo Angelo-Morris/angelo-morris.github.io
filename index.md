@@ -4,17 +4,17 @@
 
 
 ## Analytics
-[![Guy Making a Dashboard](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/guy-making-dashboard.jpg)](pages/analytics)
+[![Guy Making a Dashboard](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/guy-making-dashboard.jpg)](pages/6th-grade)
 
 
 ---
 ## Cloud Engineering
-[![Cloud Engineering Guy](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/data-engineering-guy.jpg)](pages/cloud_engineering)
+[![Cloud Engineering Guy](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/data-engineering-guy.jpg)](pages/7th-grade)
 
 
 ---
 ## Product Management
-[![Product Management People](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/product-management-people.jpg)](pages/product_management)
+[![Product Management People](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/product-management-people.jpg)](pages/8th-grade)
 
 
 ---
