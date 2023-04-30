@@ -23,5 +23,5 @@ End comment
 ---->
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Page template forked from <a href="https://github.com/gregorywmorris/gregorywmorris.github.io">Gregory</a></p>
 <!-- Remove above link if you don't want to attibute -->
